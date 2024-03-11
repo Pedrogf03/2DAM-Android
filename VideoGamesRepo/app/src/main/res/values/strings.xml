@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GamesRepo</string>
+    <string name="loading_failed">An error occurred while loading</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="games">Game</string>
+    <string name="game_details">Game Details</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="platform">Platform</string>
+    <string name="developer">Developer</string>
+    <string name="release_date">Release Date</string>
+    <string name="short_description">Short Description</string>
+    <string name="your_games">Your games</string>
+    <string name="search_games">Search games</string>
+    <string name="filters">Filters</string>
+    <string name="search">Search</string>
+    <string name="search_label">Search for a game by title</string>
+    <string name="no_games_found">No games found</string>
+</resources>

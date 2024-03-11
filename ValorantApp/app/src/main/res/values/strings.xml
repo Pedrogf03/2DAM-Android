@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">ValorantApp</string>
+
+    <string name="jett">JETT</string>
+    <string name="jettBio">Jett viene de Corea del Sur, y su estilo de lucha ágil y evasivo le permite asumir grandes riesgos. Corre y salta de aquí para allá en las refriegas y hace trizas a los enemigos con una rapidez espectacular.</string>
+    <string name="jettHab1">VENDAVAL</string>
+    <string name="jettHab1desc">Propulsa INSTANTÁNEAMENTE a Jett a mucha altura hacia arriba.</string>
+    <string name="jettHab2">VIENTO DE COLA</string>
+    <string name="jettHab2desc">ACTIVA para preparar una ráfaga de viento durante un tiempo limitado. VUELVE A USAR el viento para propulsar a Jett en la dirección en la que se esté moviendo. Si Jett está quieta, se propulsa hacia delante. La carga de Viento de cola se reinicia cada dos asesinatos.</string>
+    <string name="jettHab3">BORRASCA</string>
+    <string name="jettHab3desc">Lanza un proyectil INSTANTÁNEAMENTE que se expande para crear una nube que bloquea la visión brevemente al impactar contra una superficie. MANTENED PULSADO el botón de la habilidad para que el humo se curve en la dirección de la mira.</string>
+    <string name="jettHab4">TORMENTA DE CUCHILLAS</string>
+    <string name="jettHab4desc">EQUIPA un conjunto de cuchillos volantes de alta precisión. DISPARA para lanzar un único cuchillo y recarga los cuchillos con un asesinato. ALTERNA EL MODO DE DISPARO para lanzar todos los cuchillos restantes, pero no se recargan con un asesinato.</string>
+
+    <string name="raze">RAZE</string>
+    <string name="razeBio">Raze llega desde Brasil con ganas de hacer que todo salte por los aires. Con su estilo de juego basado en la fuerza bruta, destaca a la hora de barrer a grupos de enemigos atrincherados y de despejar áreas estrechas con explosión y sin compasión.</string>
+    <string name="razeHab1">FARDO EXPLOSIVO</string>
+    <string name="razeHab1desc">Lanza AL INSTANTE un fardo explosivo que se adhiere a las superficies. VOLVED A USAR la habilidad después de que el fardo se adhiera para detonarlo y que dañe y desplace a todo aquello que alcance. Esta habilidad no inflige daño a Raze, pero sí que recibirá daño por caída si salta lo suficientemente alto.</string>
+    <string name="razeHab2">BALAS DE PINTURA</string>
+    <string name="razeHab2desc">EQUIPA una granada de racimo. DISPARA para lanzar la granada, lo que causa daño y crea submuniciones que infligen daño a cualquiera que esté dentro del rango. ALTERNA EL MODO DE DISPARO para tirarlo. La carga de Balas de pintura se reinicia cada dos asesinatos.</string>
+    <string name="razeHab3">BOT EXPLOSIVO</string>
+    <string name="razeHab3desc">EQUIPA un bot explosivo. DISPARAD para desplegar el bot y hacer que se desplace en línea recta por el terreno, rebotando por las paredes. El bot explosivo se fijará a los enemigos que encuentre en un cono frontal y los perseguirá. Si los alcanza, explotará e infligirá una gran cantidad de daño.</string>
+    <string name="razeHab4">CIERRATELONES</string>
+    <string name="razeHab4desc">EQUIPA un lanzacohetes. DISPARA para lanzar un cohete que inflige un daño en área masivo al entrar en contacto con cualquier cosa.</string>
+
+    <string name="breach">BREACH</string>
+    <string name="breachBio">Breach, el sueco biónico, dispara una serie de explosiones cinéticas controladas para abrirse paso por el territorio enemigo. Su capacidad para infligir daño y sembrar el caos garantiza que los combates siempre estén de su parte.</string>
+    <string name="breachHab1">EXPLOSIÓN CEGADORA</string>
+    <string name="breachHab1desc">EQUIPA una carga explosiva cegadora. DISPARAD la carga para liberar una rápida explosión que atraviesa la pared. Cuando detona, la carga ciega a todos los jugadores que la estén mirando.</string>
+    <string name="breachHab2">FALLA</string>
+    <string name="breachHab2desc">EQUIPA una bomba sísmica. MANTENED PULSADO DISPARAR para aumentar la distancia. SOLTAD para liberar un seísmo que aturdirá a todos los jugadores dentro de la zona y en una línea hasta ella.</string>
+    <string name="breachHab3">RÉPLICA</string>
+    <string name="breachHab3desc">EQUIPA una carga explosiva de fusión. DISPARAD la carga para liberar una explosión que atraviesa la pared tras un retardo. La explosión inflige mucho daño a cualquiera que esté dentro del área afectada.</string>
+    <string name="breachHab4">FRAGOR IMPARABLE</string>
+    <string name="breachHab4desc">EQUIPA una carga explosiva sísmica. DISPARAD para liberar un seísmo que se extenderá por una gran zona en forma de cono. El seísmo aturde y lanza por los aires a todos los jugadores que estén en el interior de la zona.</string>
+
+    <string name="omen">OMEN</string>
+    <string name="omenBio">Omen es un fantasma de tiempos pasados que acecha en las sombras. Es capaz de cegar al enemigo, teleportarse a través del campo de batalla y sembrar el caos y la paranoia mientras sus rivales se preguntan dónde atacará la próxima vez.</string>
+    <string name="omenHab1">PARANOIA</string>
+    <string name="omenHab1desc">Dispara INSTANTÁNEAMENTE un proyectil sombrío hacia delante que reduce brevemente el alcance de la visión de todos los jugadores que toca. El proyectil puede atravesar paredes.</string>
+    <string name="omenHab2">VELO TENEBROSO</string>
+    <string name="omenHab2desc">EQUIPA un orbe sombrío y te adentras en un mundo paralelo para colocarlo y marcar el objetivo de los orbes. PULSA la tecla de la habilidad para lanzar el orbe sombrío a la ubicación señalada, lo que genera una esfera sombría de larga duración que bloquea la visión. MANTÉN PULSADO el botón de disparar al apuntar para que el marcador se aleje más. MANTÉN PULSADO el DISPARO ALTERNATIVO al apuntar para que el marcador se acerque más. PULSA RECARGAR para cambiar al modo de apuntado normal.</string>
+    <string name="omenHab3">APARICIÓN TENEBROSA</string>
+    <string name="omenHab3desc">EQUIPA una habilidad para caminar entre las sombras y muestra su indicador de alcance. DISPARAD para iniciar un breve periodo de canalización y después teleportaros a la ubicación señalada.</string>
+    <string name="omenHab4">DESDE LAS SOMBRAS</string>
+    <string name="omenHab4desc">EQUIPA un mapa táctico. DISPARAD para empezar a teleportaros a la ubicación seleccionada. Mientras se teleporta, Omen aparecerá como una sombra que los enemigos pueden destruir para cancelar su teleportación.</string>
+
+    <string name="brimstone">BRIMSTONE</string>
+    <string name="brimstoneBio">De origen estadounidense, Brimstone cuenta con un arsenal de órbita que garantiza que su equipo siempre vaya por delante. Su capacidad para aportar herramientas de utilidad de una forma segura y precisa lo convierte en un comandante de primera línea sin igual.</string>
+    <string name="brimstoneHab1">INCENDIARIO</string>
+    <string name="brimstoneHab1desc">EQUIPA un lanzagranadas incendiarias. DISPARAD una granada que detona cuando se detiene en el suelo, lo que genera una zona de fuego persistente que daña a los jugadores que estén en su interior.</string>
+    <string name="brimstoneHab2">CORTINA DE HUMO</string>
+    <string name="brimstoneHab2desc">EQUIPA un mapa táctico. DISPARA para fijar ubicaciones en las que aparecerán nubes de humo de Brimstone. ALTERNA EL MODO DE DISPARO para confirmar. Esto liberará nubes de humo de larga duración que bloquearán la visión en la zona seleccionada.</string>
+    <string name="brimstoneHab3">BALIZA ESTIMULANTE</string>
+    <string name="brimstoneHab3desc">EQUIPA una baliza estimulante. DISPARAD para lanzar la baliza estimulante frente a Brimstone. Al aterrizar, la baliza estimulante creará un campo que otorgará Disparo rápido a los jugadores.</string>
+    <string name="brimstoneHab4">GOLPE ORBITAL</string>
+    <string name="brimstoneHab4desc">EQUIPA un mapa táctico. DISPARAD para lanzar un golpe orbital en la ubicación objetivo con un láser persistente, que provocará un gran daño prolongado a los jugadores que se encuentren en la zona seleccionada.</string>
+
+    <string name="phoenix">PHOENIX</string>
+    <string name="phoenixBio">Phoenix proviene del Reino Unido y sus poderes estelares salen a relucir con su estilo de combate, que prende fuego al campo de batalla de forma deslumbrante. No le hacen falta refuerzos; es él quién se lanza al combate y marca el ritmo.</string>
+    <string name="phoenixHab1">BOLA CURVA</string>
+    <string name="phoenixHab1desc">EQUIPA un orbe fulgurante que dibuja una trayectoria curva y explota poco después de haberlo lanzado. DISPARAD para lanzar el orbe fulgurante hacia la izquierda, lo que hará que detone y ciegue a cualquier jugador que lo vea. ALTERNAD EL MODO DE DISPARO para lanzar el orbe fulgurante hacia la derecha.</string>
+    <string name="phoenixHab2">COMBUSTIÓN</string>
+    <string name="phoenixHab2desc">EQUIPA una bola de fuego. DISPARAD para lanzar una bola de fuego que explota transcurrido un tiempo determinado o al impactar contra el suelo, lo que crea una zona de fuego persistente que inflige daño a los enemigos.</string>
+    <string name="phoenixHab3">LLAMARADA</string>
+    <string name="phoenixHab3desc">EQUIPA una pared de llamas. DISPARAD para crear una línea de llamas que avanza hacia adelante, lo que forma una pared de fuego que bloquea la visión e inflige daño a los jugadores enemigos que la atraviesen. MANTENED PULSADO DISPARAR para curvar la pared en la dirección de la mira.</string>
+    <string name="phoenixHab4">CENIZAS</string>
+    <string name="phoenixHab4desc">Coloca INSTANTANEAMENTE un marcador en la ubicación de Phoenix. Mientras esta habilidad esté activa, morir o dejar que se agote el temporizador hará que se termine la habilidad y devolverá a Phoenix a esta ubicación con toda la vida.</string>
+
+    <string name="sage">SAGE</string>
+    <string name="sageBio">Originaria de China, Sage destaca a la hora de crear espacios seguros para su equipo allá donde va. Sus capacidades especiales para revivir a compañeros caídos en batalla y para mantener a raya los asaltos enemigos la convierten en la calma en mitad de la tormenta para su equipo.</string>
+    <string name="sageHab1">ORBE DE RALENTIZACIÓN</string>
+    <string name="sageHab1desc">EQUIPA un orbe de ralentización. DISPARAD para lanzar hacia adelante un orbe de ralentización que explota al aterrizar, lo que genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior.</string>
+    <string name="sageHab2">ORBE DE SANACIÓN</string>
+    <string name="sageHab2desc">EQUIPA un orbe de sanación. DISPARAD con la mira sobre un aliado herido para curarlo durante un breve periodo. ALTERNAD EL MODO DE DISPARO si Sage ha recibido daño para que se cure a sí misma durante un breve periodo.</string>
+    <string name="sageHab3">ORBE BARRERA</string>
+    <string name="sageHab3desc">EQUIPA un orbe barrera. DISPARAD para colocar una pared sólida. Alternad el MODO DE DISPARO para rotarla antes de crearla.</string>
+    <string name="sageHab4">RESURRECCIÓN</string>
+    <string name="sageHab4desc">EQUIPA una habilidad de resurrección. DISPARAD con la mira sobre un aliado muerto para empezar a resucitarlo. Tras un breve periodo de canalización, el aliado resucitará con toda la vida.</string>
+
+    <string name="sova">SOVA</string>
+    <string name="sovaBio">Nacido en el eterno invierno de la tundra rusa, Sova destaca a la hora de localizar, perseguir y eliminar a los enemigos con una eficiencia y una precisión inclementes. Su arco personalizado junto con su sobrenatural capacidad de rastreamiento hacen que sea imposible escapar.</string>
+    <string name="sovaHab1">FLECHA EXPLOSIVA</string>
+    <string name="sovaHab1desc">EQUIPA un arco con una flecha explosiva. DISPARA para lanzar la flecha explosiva hacia delante. Explotará cuando impacte e infligirá daño a los enemigos cercanos. MANTÉN PULSADO para ampliar su alcance. ALTERNA EL MODO DE DISPARO para añadir hasta dos rebotes a la flecha.</string>
+    <string name="sovaHab2">PROYECTIL DE RECONOCIMIENTO</string>
+    <string name="sovaHab2desc">EQUIPA un arco con un proyectil de reconocimiento. Se activará cuando impacte y revelará la posición de los enemigos que se encuentren en la línea de visión del proyectil. El proyectil puede ser destruido. MANTÉN PULSADO para ampliar su alcance. ALTERNA EL MODO DE DISPARO para añadir hasta dos rebotes a la flecha.</string>
+    <string name="sovaHab3">DRON DE RECONOCIMIENTO</string>
+    <string name="sovaHab3desc">EQUIPA un dron de reconocimiento. DISPARA para desplegar el dron y controlar su movimiento. Cuando tengas el control del dron, DISPARA para lanzar un dardo marcador que revelará la ubicación de cualquier jugador alcanzado. Los enemigos pueden destruir el Dron de reconocimiento.</string>
+    <string name="sovaHab4">FURIA DEL CAZADOR</string>
+    <string name="sovaHab4desc">EQUIPA un arco con tres proyectiles de energía de largo alcance que atraviesan paredes. DISPARAD para lanzar un proyectil de energía en línea recta frente a Sova que infligirá daño y revelará la posición de los enemigos que se encuentren a su paso. Esta habilidad puede VOLVERSE A USAR hasta dos veces más mientras el temporizador de la habilidad esté activo.</string>
+
+    <string name="viper">VIPER</string>
+    <string name="viperBio">Viper es una química estadounidense con un amplio arsenal de dispositivos venenosos que le sirven para tomar el control del campo de batalla y cegar a los enemigos. Si las toxinas no acaban con su presa, la paranoia la rematará.</string>
+    <string name="viperHab1">NUBE VENENOSA</string>
+    <string name="viperHab1desc">EQUIPA una granada de gas. DISPARAD para lanzar la granada, que permanecerá toda la ronda. VOLVED A USAR la habilidad para generar una nube de gas tóxico a cambio de combustible. La granada se puede VOLVER A USAR más de una vez y se puede recoger para VOLVER A COLOCARLA.</string>
+    <string name="viperHab2">PANTALLA TÓXICA</string>
+    <string name="viperHab2desc">EQUIPA un lanzagranadas de gas. DISPARAD para desplegar una larga hilera de granadas de gas que se pueden reactivar para crear un alto muro de gas tóxico a cambio de combustible. Se puede VOLVER A USAR más de una vez.</string>
+    <string name="viperHab3">VENENO DE SERPIENTE</string>
+    <string name="viperHab3desc">EQUIPA un lanzador químico. DISPARAD para lanzar un cartucho que se rompe al impactar contra el suelo, lo que genera una zona química persistente que daña a los enemigos.</string>
+    <string name="viperHab4">POZO DE LA VÍBORA</string>
+    <string name="viperHab4desc">EQUIPA un pulverizador químico. DISPARAD para pulverizar una nube química en todas direcciones alrededor de Viper, lo que genera una gran nube que reduce el alcance de la visión y la vida máxima de los jugadores que se encuentren dentro de ella.</string>
+
+    <string name="cypher">CYPHER</string>
+    <string name="cypherBio">Cypher es un experto en información de Marruecos que se especializa en redes de vigilancia y es capaz de seguirle la pista al enemigo constantemente. No hay secreto a salvo ni maniobra que pase desapercibida. Cypher siempre está alerta.</string>
+    <string name="cypherHab1">PRISIÓN CIBERNÉTICA</string>
+    <string name="cypherHab1desc">Lanza INSTANTÁNEAMENTE una prisión cibernética frente a Cypher. ACTIVADLA para crear una zona que bloquea la visión de los enemigos que la atraviesan.</string>
+    <string name="cypherHab2">CÁMARA ESPÍA</string>
+    <string name="cypherHab2desc">EQUIPA una cámara espía, DISPARA para colocar la cámara espía en la ubicación objetivo. VUELVE A USAR esta habilidad para controlar la visión de la cámara. Cuando tengas control de la cámara, DISPARA para lanzar un dardo marcador que revelará la ubicación de cualquier jugador alcanzado. El anclaje se puede recoger para VOLVER A COLOCARLO.</string>
+    <string name="cypherHab3">CABLE TRAMPA</string>
+    <string name="cypherHab3desc">EQUIPA un cable trampa. DISPARAD para colocar un cable trampa destructible pero oculto en la ubicación objetivo. Creará una línea que se extiende entre la ubicación en la que se ha colocado y la pared opuesta. Los jugadores enemigos que atraviesen un cable trampa quedarán anclados, revelados y aturdidos tras un breve lapso si no logran destruir el dispositivo a tiempo. El cable trampa se puede recoger para VOLVER A COLOCARLO.</string>
+    <string name="cypherHab4">HURTO NEURONAL</string>
+    <string name="cypherHab4desc">Usadla INSTANTANEAMENTE sobre un enemigo muerto en vuestra mira para revelar la posición de todos los jugadores enemigos vivos.</string>
+
+    <string name="reyna">REYNA</string>
+    <string name="reynaBio">Desde el corazón de México, Reyna llega para dominar los combates uno contra uno y cada asesinato que consigue la hace más fuerte. Su potencial es prácticamente infinito, y la destreza individual es el único factor determinante de su éxito.</string>
+    <string name="reynaHab1">DEVORAR</string>
+    <string name="reynaHab1desc">Los enemigos asesinados por Reyna dejan tras de sí orbes de alma que duran 3 segundos. Consume INSTANTÁNEAMENTE un orbe de alma cercano y se cura durante un breve periodo. Si se obtienen más de 100 puntos de vida con esta habilidad, la cantidad adicional se irá perdiendo con el tiempo. Si EMPERATRIZ está activa, esta habilidad se lanzará de forma automática y no consumirá el orbe.</string>
+    <string name="reynaHab2">DESPRECIAR</string>
+    <string name="reynaHab2desc">Consume INSTANTÁNEAMENTE un orbe de alma cercano y se vuelve intangible durante un breve periodo. Si EMPERATRIZ está activa, se vuelve invisible también.</string>
+    <string name="reynaHab3">MIRADA LASCIVA</string>
+    <string name="reynaHab3desc">EQUIPA un ojo etéreo e indestructible. ACTIVADLA para lanzar el ojo hacia delante una corta distancia. El ojo limitará la visión de todos los enemigos que lo miren.</string>
+    <string name="reynaHab4">EMPERATRIZ</string>
+    <string name="reynaHab4desc">Entra en un frenesí INSTANTÁNEO que aumenta drásticamente la velocidad de disparo, de equipamiento y de recarga. Conseguir un asesinato reinicia la duración.</string>
+
+    <string name="killjoy">KILLJOY</string>
+    <string name="killjoyBio">Killjoy es una brillante agente alemana que se encarga de tomar posiciones clave del campo de batalla con su arsenal de inventos. Si su daño no acaba con los enemigos, su horda de robots ayudará a su equipo a despejarlos en un abrir y cerrar de ojos.</string>
+    <string name="killjoyHab1">BOT DE ALARMA</string>
+    <string name="killjoyHab1desc">EQUIPA un bot de alarma camuflado. DISPARA para desplegar un bot que dará caza a los enemigos que estén dentro del alcance. Tras alcanzar su objetivo, el bot explota y aplica vulnerabilidad. MANTÉN PULSADO EQUIPAR para recoger un bot desplegado.</string>
+    <string name="killjoyHab2">TORRETA</string>
+    <string name="killjoyHab2desc">EQUIPA una torreta. DISPARA para desplegar una torreta que dispara a los enemigos en un cono de 180 grados. MANTÉN PULSADO EQUIPAR para recoger la torreta desplegada.</string>
+    <string name="killjoyHab3">NANOENJAMBRE</string>
+    <string name="killjoyHab3desc">EQUIPA una granada de nanoenjambre. DISPARA para lanzar la granada. Cuando aterriza, la granada enjambre se camufla. ACTIVA el nanoenjambre para desplegar un enjambre de nanobots.</string>
+    <string name="killjoyHab4">BLOQUEO</string>
+    <string name="killjoyHab4desc">EQUIPA el dispositivo de bloqueo. DISPARA para desplegar el dispositivo. Tras un largo periodo de carga, el dispositivo detiene a todos los enemigos que estén dentro del radio de efecto. Los enemigos pueden destruir el dispositivo.</string>
+
+    <string name="skye">SKYE</string>
+    <string name="skyeBio">Skye y su manada de bestias se abren paso desde Australia y a través de territorio hostil. Sus creaciones obstaculizan los avances enemigos y su capacidad para curar a los demás se ocupa de que, a su lado, su equipo esté a salvo.</string>
+    <string name="skyeHab1">PRECURSOR</string>
+    <string name="skyeHab1desc">EQUIPA un amuleto de lobo marsupial. DISPARA para desplegar al depredador y controlarlo. Mientras se está controlando al lobo, DISPARAR hace que salte hacia delante y explote, lo que aturde e inflige daño a los enemigos que golpee.</string>
+    <string name="skyeHab2">LUZ GUÍA</string>
+    <string name="skyeHab2desc">EQUIPA un amuleto de halcón. DISPARA para lanzarlo hacia adelante. MANTENER PULSADO DISPARAR guía al halcón en la dirección de la mira. VOLVER A ACTIVAR la habilidad cuando el halcón está en el aire lo transforma en un destello cegador que emite un sonido de confirmación de impacto si ha cegado a un enemigo.</string>
+    <string name="skyeHab3">REFORESTACIÓN</string>
+    <string name="skyeHab3desc">EQUIPA un amuleto de curación. MANTENER PULSADO canaliza la habilidad, que cura a los aliados que estén dentro del alcance y del campo de visión. Se puede volver a utilizar hasta que se quede sin curación disponible. Skye no se puede curar a sí misma.</string>
+    <string name="skyeHab4">BUSCADORES</string>
+    <string name="skyeHab4desc">EQUIPA un amuleto de buscador. DISPARA para desplegar tres buscadores que localizan a los tres enemigos más cercanos. Si un buscador alcanza a su objetivo, limita su visión. Los enemigos pueden destruir a los buscadores.</string>
+
+    <string name="yoru">YORU</string>
+    <string name="yoruBio">Yoru, nacido en Japón, abre agujeros en el tejido de la realidad para infiltrarse tras las líneas enemigas sin ser visto. Utiliza el engaño y la agresividad por igual para acabar con sus objetivos antes de que sepan qué ha pasado.</string>
+    <string name="yoruHab1">PUNTO CIEGO</string>
+    <string name="yoruHab1desc">EQUIPA para arrancar un fragmento dimensional inestable de la realidad. DISPARA para lanzar el fragmento, lo que activa un destello que se carga al impactar contra una superficie sólida.</string>
+    <string name="yoruHab2">INFILTRACIÓN</string>
+    <string name="yoruHab2desc">EQUIPA un vínculo de grietas. DISPARA para lanzarlo hacia delante. ALTERNA EL MODO DE DISPARO para colocarlo en el sitio. ACTIVA para teleportarte a la ubicación del vínculo. USA para activar un teleportar falso.</string>
+    <string name="yoruHab3">ENGAÑO</string>
+    <string name="yoruHab3desc">EQUIPA un eco que se transforma en una imagen idéntica de Yoru al activarse. DISPARA para activar la imagen al instante y enviarla hacia delante. ALTERNA el modo de disparo para colocar un eco inactivo. USA para transformar un eco inactivo en una imagen y enviarla hacia delante. Las imágenes explotan con un destello al ser destruidas por enemigos.</string>
+    <string name="yoruHab4">VIAJE INTERDIMENSIONAL</string>
+    <string name="yoruHab4desc">EQUIPA una máscara que te permite ver entre dimensiones. DISPARA para adentrarte en la dimensión de Yoru. Los enemigos que estén fuera no podrán verte ni hacerte daño. REACTIVA la habilidad para salir antes de la dimensión de Yoru.</string>
+
+    <string name="astra">ASTRA</string>
+    <string name="astraBio">Astra, la agente ghanesa, controla las energías del cosmos para dar forma al campo de batalla a su antojo. Con pleno dominio de su forma astral y un gran talento para la anticipación estratégica, siempre va eones por delante de los movimientos de sus enemigos.</string>
+    <string name="astraHab1">PULSO NOVA</string>
+    <string name="astraHab1desc">Coloca estrellas en Forma astral (X). ACTIVA una estrella para detonar un Pulso nova. El Pulso nova se carga brevemente y explota, lo que aturde a todos los jugadores en la zona.</string>
+    <string name="astraHab2">NEBULOSA</string>
+    <string name="astraHab2desc">Coloca estrellas en Forma astral (tecla de la definitiva). ACTIVA una estrella para transformarla en una Nebulosa (humo). USA una estrella para disiparla, lo que recupera la estrella para poder volver a colocarla tras un tiempo. Disipar una estrella crea una breve Nebulosa falsa en su ubicación antes de recuperarla.</string>
+    <string name="astraHab3">POZO GRAVITATORIO</string>
+    <string name="astraHab3desc">Coloca estrellas en Forma astral (X). ACTIVA una estrella para crear un Pozo gravitatorio. Atrae hacia el centro a todos los jugadores en la zona antes de que explote, lo que causa que todos los jugadores atrapados en el interior se vuelvan frágiles.</string>
+    <string name="astraHab4">SEPARACIÓN CÓSMICA</string>
+    <string name="astraHab4desc">ACTIVA para entrar en Forma astral y poder colocar estrellas con el DISPARO. Las estrellas se pueden reactivar más tarde para transformarlas en un Pulso nova, una Nebulosa o un Pozo gravitatorio. Cuando Separación cósmica está cargada, usa el DISPARO ALTERNATIVO en Forma astral para empezar a apuntar y, a continuación, el DISPARO para e legir dos ubicaciones. Se creará una Separación cósmica infinita que conecte los dos puntos. Separación cósmica bloquea las balas y atenúa en gran medida los sonidos.</string>
+
+    <string name="kay_o">KAY/O</string>
+    <string name="kay_oBio">BreachKAY/O es una máquina de guerra construida con un único propósito: neutralizar a los radiantes. Su poder para suprimir habilidades enemigas incapacita a sus adversarios, lo que asegura la ventaja para él y sus aliados.</string>
+    <string name="kay_oHab1">UNIDAD/FLASH</string>
+    <string name="kay_oHab1desc">EQUIPA una granada cegadora. DISPARA para lanzar la granada por arriba. ALTERNA EL MODO DE DISPARO para lanzar una granada más débil que explota rápidamente. La cegadora explota tras un breve tiempo y ciega a todo el que se encuentre en la línea de visión.</string>
+    <string name="kay_oHab2">PUNTO/CERO</string>
+    <string name="kay_oHab2desc">EQUIPA una cuchilla de supresión. DISPARA para lanzarla. La cuchilla se adhiere a la primera superficie a la que golpee, se carga y suprime a cualquiera que se encuentre en el radio de la explosión. Los enemigos pueden destruir la cuchilla.</string>
+    <string name="kay_oHab3">FRAG/MENTO</string>
+    <string name="kay_oHab3desc">EQUIPA un fragmento explosivo. DISPARA para lanzarlo. El fragmento se pega al suelo y explota varias veces, lo que inflige daño casi mortal en el centro con cada explosión.</string>
+    <string name="kay_oHab4">CMD/ANULAR</string>
+    <string name="kay_oHab4desc">Experimenta una sobrecarga INSTANTÁNEA de energía de radianita polarizada en forma de pulsos de gran radio que se emiten desde KAY/O. Los enemigos que reciban el impacto de pulsos quedan silenciados durante un breve periodo de tiempo. Cuando está sobrecargado, KAY/O obtiene Estimulante de combate y puede volver a estabilizarse si resulta derribado.</string>
+
+    <string name="chamber">CHAMBER</string>
+    <string name="chamberBio">El diseñador de armas francés, siempre bien vestido y bien pertrechado, expulsa a los agresores con precisión letal. Chamber aprovecha su arsenal personalizado para resistir, elimina enemigos a distancia y crea la contingencia perfecta para cada plan.</string>
+    <string name="chamberHab1">CAZADOR DE CABEZAS</string>
+    <string name="chamberHab1desc">ACTÍVALA para equipar una pistola pesada. Utiliza el botón de modo de DISPARO ALTERNATIVO para apuntar con la mira.</string>
+    <string name="chamberHab2">RENDEZ-VOUS</string>
+    <string name="chamberHab2desc">EQUIPA un anclaje de teleportación. DISPARA para colocarla en el suelo. Mientras esté en el suelo y al alcance, REACTIVA la habilidad para teleportarte rápidamente al anclaje. El anclaje se puede recoger para VOLVER A COLOCARLO.</string>
+    <string name="chamberHab3">MARCA REGISTRADA</string>
+    <string name="chamberHab3desc">EQUIPA una trampa que escanea en busca de enemigos. DISPARA para colocarla en el suelo. Cuando un enemigo visible entra en el alcance, la trampa inicia una cuenta atrás y, a continuación, desestabiliza el terreno a su alrededor, lo que crea un campo persistente que ralentiza a los jugadores que se encuentren en su interior. El anclaje se puede recoger para VOLVER A COLOCARLO.</string>
+    <string name="chamberHab4">TOUR DE FORCE</string>
+    <string name="chamberHab4desc">ACTÍVALA para invocar un poderoso rifle de francotirador personalizado que mata a los enemigos con cualquier impacto directo en la parte superior del cuerpo. ALTERNA EL MODO DE DISPARO para apuntar con la mira. Matar a un enemigo genera un campo persistente que ralentiza a los jugadores que se encuentren en su interior.</string>
+
+    <string name="neon">NEON</string>
+    <string name="neonBio">Neon, una agente filipina, se lanza hacia la batalla a una velocidad trepidante, disparando descargas bioeléctricas tan rápido como las genera su cuerpo. Se adelanta para pillar a sus enemigos desprevenidos y acaba con ellos más rápido que una bala.</string>
+    <string name="neonHab1">PROYECTIL ELECTRIZANTE</string>
+    <string name="neonHab1desc">Lanza INSTANTÁNEAMENTE un rayo de energía que rebota una vez. Al golpear cada superficie, el rayo electrifica el suelo bajo ella con una explosión aturdidora.</string>
+    <string name="neonHab2">CAMBIO DE MARCHA</string>
+    <string name="neonHab2desc">Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Cuando esté cargada, utilizad el DISPARO ALTERNATIVO para activar un deslizador eléctrico. La carga del deslizador se reinicia con cada dos asesinatos.</string>
+    <string name="neonHab3">VIA RÁPIDA</string>
+    <string name="neonHab3desc">DISPARA dos líneas de energía hacia delante por el suelo. Dichas líneas se desplazan una corta distancia o hasta chocar contra algún obstáculo. Entonces, las líneas se alzan para convertirse en muros de energía estática que bloquean la visión e infligen daño a los enemigos que los atraviesan.</string>
+    <string name="neonHab4">SOBRECARGA</string>
+    <string name="neonHab4desc">Neon desata todo su poder y velocidad durante un breve periodo de tiempo. DISPARAD para canalizar su poder en un mortífero rayo móvil y preciso. Su duración se reinicia con cada asesinato.</string>
+
+    <string name="fade">FADE</string>
+    <string name="fadeBio">Fade, la cazarrecompensas turca, controla el poder de las pesadillas para poner al descubierto los secretos de los enemigos. Armada con el terror mismo, da caza a sus objetivos y revela sus miedos más profundos, para después acabar con ellos en la oscuridad.</string>
+    <string name="fadeHab1">APRESAR</string>
+    <string name="fadeHab1desc">Equipa un orbe hecho con tinta de pesadilla. DISPARA para lanzar el orbe que, tras un determinado periodo de tiempo, caerá en picado hacia el suelo. Al llegar al suelo, la tinta explotará y se creará una zona de la que los enemigos no podrán escapar por las vías habituales. VUELVE A ACTIVAR la habilidad para que el proyectil caiga antes en un punto de su trayectoria.</string>
+    <string name="fadeHab2">TORMENTO</string>
+    <string name="fadeHab2desc">Equipa una pesadilla. DISPARA para lanzar el orbe que, tras un determinado periodo de tiempo, caerá en picado hacia el suelo. Al llegar al suelo, el orbe se convertirá en una pesadilla que revelará la ubicación de los enemigos que se encuentren en su línea de visión. Los enemigos pueden destruir la pesadilla. VUELVE A ACTIVAR la habilidad para que el proyectil caiga antes en un punto de su trayectoria.</string>
+    <string name="fadeHab3">ACECHADOR</string>
+    <string name="fadeHab3desc">EQUIPA un Acechador. DISPARA para enviar al Acechador, que se desplazará en línea recta. El Acechador se adherirá a los enemigos o rastros situados en su cono de visión frontal y los perseguirá. Si los alcanza, reducirá sus campos de visión. MANTÉN PULSADO el botón de DISPARAR para dirigir al Acechador en la dirección de la mira.</string>
+    <string name="fadeHab4">OCASO</string>
+    <string name="fadeHab4desc">EQUIPA el poder del miedo. DISPARA para emitir una oleada de energía terrorífica capaz de atravesar paredes. Esta energía deja un rastro hasta el oponente y, además, lo ensordece y aplica declive.</string>
+
+    <string name="harbor">HARBOR</string>
+    <string name="harborBio">Desde las costas de la India, Harbor llega al campo de batalla armado con tecnología ancestral capaz de controlar el agua. Libera espumosos torrentes y demoledoras olas para escudar a sus aliados o machacar a quien se interponga en su camino.</string>
+    <string name="harborHab1">CALA</string>
+    <string name="harborHab1desc">EQUIPA una esfera de agua protectora. DISPARA para lanzarla. ALTERNA EL MODO DE DISPARO para lanzarla por debajo del hombro. Al impactar contra el suelo, genera un escudo de agua destructible que bloquea las balas.</string>
+    <string name="harborHab2">MAREA ALTA</string>
+    <string name="harborHab2desc">EQUIPA una pared de agua. DISPARA para lanzarla hacia adelante por el suelo. MANTÉN PULSADO para guiar el agua en la dirección de la mira, atravesando los obstáculos del terreno y creando una pared por todo el recorrido. ALTERNA EL MODO DE DISPARO mientras trazas la pared para acabarla antes de tiempo. Los jugadores golpeados se ven ralentizados.</string>
+    <string name="harborHab3">CASCADA</string>
+    <string name="harborHab3desc">EQUIPA una ola de agua. DISPARA para enviarla hacia delante y hacer que atraviese las paredes. ÚSALA DE NUEVO para detener la ola. Los jugadores golpeados se ven ralentizados.</string>
+    <string name="harborHab4">AJUSTE DE CUENTAS</string>
+    <string name="harborHab4desc">EQUIPA todo el poder de tu artefacto. DISPARA para invocar un géiser que nace del suelo. Los enemigos de la zona serán objetivo de varios ataques del géiser. Los jugadores que se vean atrapados por un impacto quedan aturdidos.</string>
+
+    <string name="gekko">GEKKO</string>
+    <string name="gekkoBio">Gekko, de Los Ángeles, lidera una pequeña pandilla de calamitosas criaturas. Sus colegas toman la delantera para dispersar a los enemigos, mientras que Gekko los persigue para luego reagruparse y repetir el proceso.</string>
+    <string name="gekkoHab1">WINGMAN</string>
+    <string name="gekkoHab1desc">EQUIPA a Wingman. DISPARA para mandar a Wingman hacia delante en busca de enemigos. Wingman libera una explosión aturdidora en dirección al primer enemigo que ve. ALTERNA EL MODO DE DISPARO mientras apuntas a una zona de la Spike o a una Spike colocada para que Wingman la coloque o la desarme. Para colocarla, Gekko debe tener la Spike en su inventario. Cuando Wingman desaparece, vuelve a su estado de glóbulo en reposo. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Wingman tras un breve enfriamiento.</string>
+    <string name="gekkoHab2">DIZZY</string>
+    <string name="gekkoHab2desc">EQUIPA a Dizzy. DISPARA para lanzar a Dizzy volando hacia delante. Dizzy carga y libera explosiones de plasma hacia los enemigos en su campo de visión. El plasma ciega a los enemigos alcanzados. Cuando Dizzy desaparece, vuelve a su estado de glóbulo en reposo. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Dizzy tras un breve enfriamiento.</string>
+    <string name="gekkoHab3">MOSH</string>
+    <string name="gekkoHab3desc">EQUIPA a Mosh. DISPARA para lanzar a Mosh como una granada. ALTERNA EL MODO DE DISPARO para lanzarlo por debajo del hombro. Al caer, Mosh se divide en varias copias en un área grande y, tras un breve lapso, explota.</string>
+    <string name="gekkoHab4">THRASH</string>
+    <string name="gekkoHab4desc">EQUIPA a Thrash. DISPARA para vincular tu mente con la de Thrash y manejarla a través del territorio enemigo. ACTÍVALA para embestir hacia delante y explotar, deteniendo a cualquier enemigo en un pequeño radio. Cuando Thrash desaparece, vuelve a su estado de glóbulo en reposo. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Thrash tras un breve enfriamiento. Thrash puede recuperarse una vez.</string>
+
+    <string name="deadlock">DEADLOCK</string>
+    <string name="deadlockBio">Deadlock, la agente noruega, despliega un surtido de avanzados nanocables para defender el campo de batalla de cualquier asalto, por letal que sea. Nadie escapa a su atenta mirada ni sobrevive a su ferocidad implacable.</string>
+    <string name="deadlockHab1">SENSOR SÓNICO</string>
+    <string name="deadlockHab1desc">EQUIPA un Sensor sónico. DISPARA para desplegarlo. El sensor rastrea la zona en busca de enemigos que hagan ruido. Si detecta sonidos de pisadas, disparos o cualquier otro ruido considerable, aturde en área.</string>
+    <string name="deadlockHab2">MALLA BARRERA</string>
+    <string name="deadlockHab2desc">EQUIPA un disco de Malla barrera. DISPARA para lanzarlo hacia delante. Al aterrizar, el disco genera barreras a partir de su punto de origen que detienen el movimiento de los personajes.</string>
+    <string name="deadlockHab3">RED DE GRAVEDAD</string>
+    <string name="deadlockHab3desc">EQUIPA una granada de Red de gravedad. DISPARA para lanzarla. ALTERNA EL MODO DE DISPARO para lanzarla por debajo del hombro. La Red de gravedad explota al aterrizar, lo que fuerza a los enemigos alcanzados a agacharse y moverse lentamente.</string>
+    <string name="deadlockHab4">ANIQUILACIÓN</string>
+    <string name="deadlockHab4desc">EQUIPA un acelerador de nanocables. DISPARA para emitir un pulso de nanocables que capturan al primer enemigo con el que entran en contacto. El enemigo atrapado se ve arrastrado y muere si llega al final del recorrido, a menos que sea liberado. La envoltura de los nanocables se puede destruir.</string>
+
+    <string name="iso">ISO</string>
+    <string name="isoBio">Iso, el profesional a sueldo chino, entra en un estado de energía para acabar con sus rivales. Capaz de reconfigurar la energía ambiental para crear una protección a prueba de balas, avanza concentrado a su siguiente duelo a muerte.</string>
+    <string name="isoHab1">SOCAVAR</string>
+    <string name="isoHab1desc">EQUIPA un proyectil molecular. DISPARA para lanzarlo hacia delante, lo que aplica brevemente Fragilidad a todos los jugadores que toca. El proyectil puede atravesar objetos sólidos, incluso paredes.</string>
+    <string name="isoHab2">DISPARO DOBLE</string>
+    <string name="isoHab2desc">INICIA un temporizador de concentración. Cuando termina, Iso entra en un estado de energía durante el cual los enemigos abatidos que ha asesinado o dañado generan un orbe de energía. Disparar al orbe otorga a Iso un escudo que absorbe una única vez el daño de cualquier fuente.</string>
+    <string name="isoHab3">CONTINGENCIA</string>
+    <string name="isoHab3desc">EQUIPA para reunir energía prismática. DISPARA para enviar al frente un muro indestructible de energía que bloquea las balas.</string>
+    <string name="isoHab4">CONTRATO DE ASESINATO</string>
+    <string name="isoHab4desc">EQUIPA una arena interdimensional. DISPARA para lanzar una columna de energía a través del campo de batalla que arrastra a Iso y al primer enemigo alcanzado a la arena. Allí os batís en duelo a muerte.</string>
+
+
+    <string name="navaja">NAVAJA TACTICA</string>
+    <string name="navajaDesc">Si no os quedan balas, siempre tenéis vuestra navaja. Os permite correr con rapidez, destruir objetos mucho más rápido y acabar con enemigos por la espalda de una sola cuchillada si usáis el modo alternativo</string>
+    <string name="navajaPrecio">0</string>
+
+    <string name="classic">CLASSIC</string>
+    <string name="classicDesc">El modo de disparo principal es preciso si no se está en movimiento, y también dispone de un modo de disparo en ráfaga para los encuentros cuerpo a cuerpo.</string>
+    <string name="classicPrecio">0</string>
+
+    <string name="shorty">SHORTY</string>
+    <string name="shortyDesc">Se trata de una escopeta ligera de barril corto que resulta letal cuerpo a cuerpo pero solo puede dispararse dos veces antes de tener que recargarla. Complementa de maravilla a las armas de larga distancia.</string>
+    <string name="shortyPrecio">150</string>
+
+    <string name="frenzy">FRENZY</string>
+    <string name="frenzyDesc">Se trata de una pistola ametralladora ligera que destaca a la hora de disparar en movimiento. Tiene una velocidad de disparo muy alta, pero es difícil de controlar, así que a media distancia es mejor apostar por ráfagas cortas.</string>
+    <string name="frenzyPrecio">450</string>
+
+    <string name="ghost">GHOST</string>
+    <string name="ghostDesc">La Ghost cuenta también con un amplio cargador por si lo necesitáis. Si el objetivo está lejos, tendréis que controlar la velocidad de disparo. Pulsad el gatillo con rapidez cuando los tengáis cerca.</string>
+    <string name="ghostPrecio">500</string>
+
+    <string name="sheriff">SHERIFF</string>
+    <string name="sheriffDesc">Sus poderosos disparos causan un retroceso pronunciado y dominar esta arma requiere dedicación. Si la empuñáis con precisión, vuestros enemigos correrán al veros.</string>
+    <string name="sheriffPrecio">800</string>
+
+    <string name="stinger">STINGER</string>
+    <string name="stingerDesc">Este subfusil es más potente a media y larga distancia que el resto, pero para ello sacrifica parte de su velocidad de disparo y movilidad.</string>
+    <string name="stingerPrecio">1100</string>
+
+    <string name="spectre">SPECTRE</string>
+    <string name="spectreDesc">Es un arma todoterreno con estadísticas de daño, velocidad de disparo y precisión muy equilibradas tanto a distancias cortas como medias.</string>
+    <string name="spectrePrecio">1600</string>
+
+    <string name="bucky">BUCKY</string>
+    <string name="buckyDesc">Pesada pero estable, el modo de disparo principal de la Bucky ayuda a vigilar esquinas en espacios reducidos y resulta ideal para cargar contra los enemigos cuerpo contra cuerpo. El modo de disparo alternativo es preciso a media distancia.</string>
+    <string name="buckyPrecio">850</string>
+
+    <string name="judge">JUDGE</string>
+    <string name="judgeDesc">La Judge es un arma estable, pero se vuelve volátil si se dispara con mucha rapidez. El modo de disparo principal es perfecto para las distancias cortas; si queréis acertar a objetivos a más de un metro de distancia, tendréis que apuntar con calma y precisión.</string>
+    <string name="judgePrecio">1850</string>
+
+    <string name="bulldog">BULLDOG</string>
+    <string name="bulldogDesc">Una vez que aprendéis a decidir cuándo disparar, se trata de una apuesta segura. El modo alternativo dispone de una mira que os permite disparar ráfagas cortas con precisión a media y larga distancia.</string>
+    <string name="bulldogPrecio">2050</string>
+
+    <string name="guardian">GUARDIAN</string>
+    <string name="guardianDesc">Es el rifle para tiradores por excelencia. Es más pesado y cuenta con menos movilidad que los demás, pero también preciso y potente. Perfecto para cazar cabezas a larga y media distancia.</string>
+    <string name="guardianPrecio">2250</string>
+
+    <string name="phantom">PHANTOM</string>
+    <string name="phantomDesc">El modo automático es perfecto para los encuentros en espacios reducidos, mientras que las ráfagas cortas son la opción indicada en cualquier otra situación. Es mucho más precisa si no se dispara en movimiento.</string>
+    <string name="phantomPrecio">2900</string>
+
+    <string name="vandal">VANDAL</string>
+    <string name="vandalDesc">Sin embargo, va perdiendo estabilidad con el tiempo. El Vandal inflige mucho daño a larga distancia y es ideal para aquellos que se centran en acertar tiros a la cabeza.</string>
+    <string name="vandalPrecio">2900</string>
+
+    <string name="marshal">MARSHAL</string>
+    <string name="marshalDesc">Se trata de un fusil de francotirador ligero con una sola opción de zoom que mantendrá a los enemigos a raya. Eso sí, la baja velocidad de disparo garantiza que, si no acertáis en el objetivo, quedaréis expuestos.</string>
+    <string name="marshalPrecio">950</string>
+
+    <string name="operator">OPERATOR</string>
+    <string name="operatorDesc">El Operator es un fusil de francotirador de cerrojo muy potente con zoom dual. Cuenta con una movilidad nula, pero sus balas derribarán a cualquiera de un solo impacto.</string>
+    <string name="operatorPrecio">4700</string>
+
+    <string name="ares">ARES</string>
+    <string name="aresDesc">El gran cargador de la Ares significa que se le da de maravilla el fuego continuo e infligir grandes cantidades de daño a grupos de enemigos.</string>
+    <string name="aresPrecio">1600</string>
+
+    <string name="odin">ODIN</string>
+    <string name="odinDesc">Dispara de forma continua e inflige mucho daño con una estabilidad sorprendente. Cubrid de balas a los enemigos en espacios reducidos o recurrid al modo alternativo para convertiros en una torreta andante.</string>
+    <string name="odinPrecio">3200</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="tomo0">Tomo 0</string>
+    <string name="tomo0_year">9-10-2020</string>
+    <string name="tomo1">Tomo 1</string>
+    <string name="tomo1_year">6-3-2020</string>
+    <string name="tomo2">Tomo 2</string>
+    <string name="tomo2_year">15-5-2020</string>
+    <string name="tomo3">Tomo 3</string>
+    <string name="tomo3_year">7-9-2020</string>
+    <string name="tomo4">Tomo 4</string>
+    <string name="tomo4_year">13-11-2020</string>
+    <string name="tomo5">Tomo 5</string>
+    <string name="tomo5_year">15-1-2021</string>
+</resources>

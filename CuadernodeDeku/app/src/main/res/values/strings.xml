@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Cuaderno de Deku</string>
+
+    <string name="ProHero1">All Might</string>
+    <string name="ProHero1_name">Toshinori Yagi</string>
+    <string name="ProHero1_desc">All Might es conocido por su don \"One For All\", que le otorga una fuerza sobrehumana y la capacidad de realizar movimientos increíbles. Su forma musculosa es su estado más poderoso, pero solo puede mantenerla durante un tiempo limitado.</string>
+
+    <string name="ProHero2">Endeavor</string>
+    <string name="ProHero2_name">Enji Todoroki</string>
+    <string name="ProHero2_desc">Endeavor tiene el don \"Hellflame\", que le permite generar y controlar el fuego a voluntad.</string>
+
+    <string name="ProHero3">Hawks</string>
+    <string name="ProHero3_name">Keigo Takami</string>
+    <string name="ProHero3_desc">Hawks posee el don \"Fierce Wings\", que le permite manipular sus plumas a gran velocidad y precisión. Es un espía habilidoso y un estratega astuto.</string>
+
+    <string name="ProHero4">Best Jeanist</string>
+    <string name="ProHero4_name">Tsunagu Hakamata</string>
+    <string name="ProHero4_desc">Best Jeanist controla las fibras de su ropa para crear hilos extremadamente fuertes. Puede atrapar y controlar a los villanos con facilidad.</string>
+
+    <string name="ProHero5">Edgeshot</string>
+    <string name="ProHero5_name">Shinya Kamihara</string>
+    <string name="ProHero5_desc">Edgeshot puede convertir su cuerpo en una forma afilada y deslizarse a través de objetos sólidos. Es un maestro del sigilo y la velocidad.</string>
+
+    <string name="ProHero6">Mirko</string>
+    <string name="ProHero6_name">Rumi Usagiyama</string>
+    <string name="ProHero6_desc">Mirko es una experta en combate cuerpo a cuerpo y tiene el don \"Rabbit\", que le otorga una velocidad y agilidad sobrehumanas.</string>
+
+    <string name="ProHero7">Gran Torino</string>
+    <string name="ProHero7_name">Sorahiko Torino</string>
+    <string name="ProHero7_desc">Gran Torino es un maestro de artes marciales y tiene el don \"Jet\", que le permite moverse a velocidades increíbles. Fue mentor de All Might.</string>
+
+    <string name="ProHero8">Ryukyu</string>
+    <string name="ProHero8_name">Ryuko Tatsuma</string>
+    <string name="ProHero8_desc">Ryukyu puede transformarse en un dragón gigante y tiene una gran resistencia y fuerza. Es una defensora feroz de la justicia.</string>
+
+    <string name="ProHero9">Gunhead</string>
+    <string name="ProHero9_name">Sekijiro Kan</string>
+    <string name="ProHero9_desc">No tiene un don sobrenatural, pero su habilidad para enfrentarse a los villanos sin temor lo convierte en un héroe valiente y respetado.</string>
+
+    <string name="ProHero10">Kamui Woods</string>
+    <string name="ProHero10_name">Tsunagu Hakamata</string>
+    <string name="ProHero10_desc">Kamui Woods puede controlar y manipular la madera a su voluntad.</string>
+
+    <string name="ProHero11">Mount Lady</string>
+    <string name="ProHero11_name">Yu Takeyama</string>
+    <string name="ProHero11_desc">Mount Lady puede aumentar su tamaño y fuerza a niveles gigantescos.</string>
+
+    <string name="ProHero12">Fat Gum</string>
+    <string name="ProHero12_name">Taishiro Toyomitsu</string>
+    <string name="ProHero12_desc">Fat Gum puede absorber y almacenar energía cinética en su grasa corporal. Es un protector compasivo y un escudo humano.</string>
+
+    <string name="ProHero13">Gang Orca</string>
+    <string name="ProHero13_name">Kugo Sakamata</string>
+    <string name="ProHero13_desc">Gang Orca tiene el don \"killer Whale\", que le permite controlar el agua y comunicarse con las ballenas. Su aspecto imponente y su habilidad para manipular líquidos lo convierten en un héroe formidable.</string>
+
+    <string name="ProHero14">Manual</string>
+    <string name="ProHero14_name">Daikaku Miyagi</string>
+    <string name="ProHero14_desc">Manual no tiene un don sobrenatural, pero es un experto en artes marciales y técnicas de combate. Su enfoque en la estrategia y la táctica lo convierte en un héroe valioso en situaciones de crisis.</string>
+
+    <string name="ProHero15">Fourth Kind</string>
+    <string name="ProHero15_name">Masaki Mizushima</string>
+    <string name="ProHero15_desc">Fourth Kind tiene el don \"quad Arms\", que le permite generar cuatro brazos adicionales. Puede usar estos brazos para atacar, defenderse y realizar múltiples tareas simultáneamente. Es un héroe versátil y un maestro en el combate a corta distancia.</string>
+
+    <string name="ProHero16">Eraser Head</string>
+    <string name="ProHero16_name">Shota Aizawa</string>
+    <string name="ProHero16_desc">Eraser Head puede anular temporalmente los dons de otras personas con solo mirarlas. Es un maestro de la neutralización y la estrategia.</string>
+
+    <string name="ProHero17">Present Mic</string>
+    <string name="ProHero17_name">Hizashi Yamada</string>
+    <string name="ProHero17_desc">Present Mic tiene el don \"voice\", que le permite manipular el sonido y atacar con ondas sónicas.</string>
+p
+    <string name="ProHero18">Midnight</string>
+    <string name="ProHero18_name">Nemuri Kayama</string>
+    <string name="ProHero18_desc">Midnight emite un aroma somnífero que induce al sueño. Es una heroína una experta en control de multitudes.</string>
+
+    <string name="ProHero19">Nº13</string>
+    <string name="ProHero19_name">Desconocido</string>
+    <string name="ProHero19_desc">Su don \"black Hole\"  le permite crear agujeros negros y manipular la gravedad. Es un científico y un protector del espacio-tiempo.</string>
+
+    <string name="ProHero20">Sir Nighteye</string>
+    <string name="ProHero20_name">Sorahiko Torino</string>
+    <string name="ProHero20_desc">Sir Nighteye puede ver el futuro a través del contacto visual y predecir los movimientos de sus oponentes.</string>
+
+    <string name="ProHero21">Cementoss</string>
+    <string name="ProHero21_name">Ken Ishiyama</string>
+    <string name="ProHero21_desc">Su don “cimentación”  le permite crear y manipular cemento y concreto a voluntad. Puede usar su habilidad para construir estructuras defensivas o atrapar a los villanos en muros sólidos.</string>
+
+    <string name="ProHero22">Backdraft</string>
+    <string name="ProHero22_name">Desconocido</string>
+    <string name="ProHero22_desc">Backdraft tiene el don \"hidrokinesis\" que le permite crear y manipular agua a través de los grifos de manguera en lugar de las manos. Es especialista en situaciones de inundación y rescate acuático.</string>
+
+    <string name="ProHero23">Rock Lock</string>
+    <string name="ProHero23_name">Ken Takagi</string>
+    <string name="ProHero23_desc">Su don \"bloqueo\" le inmovilizar cualquier cosa sin vida que haya tocado, deteniéndolo en un lugar fijo en el espacio.</string>
+
+    <string name="ProHero24">Centipeder</string>
+    <string name="ProHero24_name">Juzo Moashi</string>
+    <string name="ProHero24_desc">Su don \"ciempiés\" le concede miembros largos, como los ciempiés, que puede usar para atacar o contener enemigos desde lejos. Usa sus brazos de ciempiés para contrarrestar a sus enemigos, inmovilizándolos.</string>
+
+    <string name="ProHero25">Ectoplasm</string>
+    <string name="ProHero25_name">Desconocido</string>
+    <string name="ProHero25_desc">Su don \"clones\" le da la capacidad de producir ectoplasma de su boca y transformarlo en clones de sí mismo. Puede crear hasta treinta clones a la vez, y puede llegar a los treinta y seis si se siente bien.</string>
+
+    <string name="ProHero26">Ms. Joke</string>
+    <string name="ProHero26_name">Emi Fukukado</string>
+    <string name="ProHero26_desc">Con su don \"carcajada\" fuerza otros a reírse, lo que afecta sus habilidades cognitivas y motrices.</string>
+
+    <string name="ProHero27">Pixie-Bob</string>
+    <string name="ProHero27_name">Ryuko Tsuchikawa</string>
+    <string name="ProHero27_desc">Su don \"flujo de tierra\" le permite manipular la tierra y crear seres frágiles hechos de tierra, a quien ella llama bestias de tierra.</string>
+
+    <string name="ProHero28">Selkie</string>
+    <string name="ProHero28_name">Desconocido</string>
+    <string name="ProHero28_desc">Su don \"spotted seal\" le permite hacer cualquier cosa que pueda hacer una foca manchada, pudiendo respirar bajo el agua y confiriéndole una fuerza superior a la humana. También puede utilizar la ecolocación cuando atraviesa aguas oscuras o cuando su vista se ve obstaculizada durante el combate.</string>
+
+    <string name="ProHero29">Recovery Girl</string>
+    <string name="ProHero29_name">Chiyo Shuzenji</string>
+    <string name="ProHero29_desc">Con su don \"recuperación\" puede acelerar la velocidad de recuperación de un paciente mediante un beso, aunque su habilidad no puede curarlos al cien por ciento. Además, una vez activado, el paciente se sentirá muy cansado, debido a que su don sólo le permite valerse de la energía del paciente para sanarlo.</string>
+
+    <string name="ProHero30">Sirius</string>
+    <string name="ProHero30_name">Desconocido</string>
+    <string name="ProHero30_desc">Su don \"good ear\" le permite escuchar altas frecuencias y sonidos inaudibles para el humano promedio. Esto le permite comunicarse con Selkie incluso cuando están muy lejos uno de otro.</string>
+</resources>
